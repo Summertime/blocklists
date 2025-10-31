@@ -1,0 +1,6 @@
+! https://larslofgren.com/forbes-marketplace/
+! https://larslofgren.com/cnn-usa-today-forbes-marketplace/
+! https://larslofgren.com/parasite-seo/
+||forbes.com^$document
+||cnn.com^$document
+||usatoday.com^$document
